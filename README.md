@@ -17,7 +17,7 @@ I am a final-year Computer Science and Engineering student at Daffodil Internati
 
 ## Technical Skills
 
-* *Programming Languages:* C, C++
+* *Programming Languages:* C, C++,OOP,JAVA
 * *Core Skills:* Problem Solving, Software Development
 * *Areas of Interest:* Artificial Intelligence, Chatbot Development
 * *Tools:* Git, GitHub (as applicable)
